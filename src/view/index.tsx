@@ -14,7 +14,6 @@ import {
 } from "@material-ui/core/";
 import { createStyles, makeStyles, Theme } from "@material-ui/core/styles";
 import { generateColors } from "./utils/colorsRandom";
-import { number } from "yargs";
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
